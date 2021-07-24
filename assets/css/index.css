@@ -118,16 +118,31 @@
     padding-left: 0px;
     background-color: #c9ecb5;
 }
+.hotdealbox>#juice{
+  position: relative;
+  bottom: 6rem;
+ 
+}
 
 .hotdealbox>#burger{
   position: relative;
-  bottom: 0rem;
+  bottom: 6rem;
   left: -16rem;
   height: 15rem;
 
+  
+}
+.hotdealbox>h2{
+  text-align: center;
+}
+.hotdeal-text{
+ border: 1px solid black;
+ float: right;
+ margin-left:40rem;
+ margin-top: 2rem;
+ 
 
 }
-
 
 
 .contactbox{
