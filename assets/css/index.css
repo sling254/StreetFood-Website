@@ -139,18 +139,51 @@
  border: 1px solid black;
  float: right;
  margin-left:40rem;
- margin-top: 2rem;
+ 
  
 
 }
-
-
 .contactbox{
-    text-align: center;
     border: 1px solid black;
     margin-left: 80px;
     margin-right: 35px;
     padding-right: 70px;
     padding-left: 0px;
     background-color: #fff5dd;
+    
 }
+.contactbox>h1{
+  text-align: center;
+}
+.contactbox>p{
+  text-align: center;
+
+}
+.contactbox>form{
+  text-align:center;
+}
+input[type=text] {
+  width: 30%;
+  height: 2rem;
+  text-decoration: black;
+  color: black;
+  
+  border-radius: 10px;
+}
+button {
+  
+  background-color: #6CB840;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 4px 4px;
+  border-radius: 20px;
+  width:10%;
+  
+
+}
+
