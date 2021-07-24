@@ -170,7 +170,7 @@ input[type=text] {
   
   border-radius: 10px;
 }
-button {
+#contact-button {
   
   background-color: #6CB840;
   border: none;
@@ -183,7 +183,41 @@ button {
   margin: 4px 4px;
   border-radius: 20px;
   width:10%;
-  
 
 }
+.container-footer{
+  border: 1px solid black;
+  margin-top: 12px;
+  margin-left: 80px;
+  margin-right: 35px;
+  padding-right: 70px;
+  padding-left: 0px;
+  background-color: #f1faec;
 
+}
+.footer{
+  width: 100%;
+  display: flex;
+  margin-bottom: 20px;
+  margin-top: 40px;
+  
+}
+.footer-left{
+  flex: 1px;
+  padding: 10px;
+}
+.footer-center{
+  flex: 5px;
+  padding: 60px;
+
+  border-left: 2.5px dashed #649549 ;
+}
+.footer-right{
+  flex: 1px;
+  padding: 60px;
+
+}
+#footer-button{
+  background-color: #6CB840;
+
+}
