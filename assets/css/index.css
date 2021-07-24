@@ -4,16 +4,44 @@
     font-family: Poppins;
   
 }
+body{
+  position: relative;
+}
+
+
 .landingpage{
     background-color:#e5e5e5;
     min-height: 70vh;
+    position: relative;
 
 }
+
+.oval-container{
+  background-color: #B8E79C !important;
+  position: absolute;
+  width: 92vw;
+  height: 76vw;
+  top: -46em;
+  right: -19em;
+  z-index: 3;
+  border-radius: 50%;
+}
+
+.oval-images>.center-image{
+  position: absolute;
+  bottom:0;
+  z-index: 3;
+  top: 15rem;
+  right: 18rem;
+}
+
 .navbar {
     overflow: hidden;
     padding-top: 70px;
     padding-left: 40px;
     padding-right: 40px;
+    position: absolute;
+    z-index: 10;
   }
   
   .navbar a {
