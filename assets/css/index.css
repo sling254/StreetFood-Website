@@ -110,18 +110,25 @@
   text-align:center;
   margin-left: 2rem;
 }
-
-
-.hotdealbox {
-    display: flex;
-    align-items: center;
+.container-deals{
     border: 1px solid black;
     margin-left: 80px;
     margin-right: 35px;
     padding-right: 70px;
     padding-left: 0px;
     background-color: #c9ecb5;
-  }
+}
+
+.hotdealbox>#burger{
+  position: relative;
+  bottom: 0rem;
+  left: -16rem;
+  height: 15rem;
+
+
+}
+
+
 
 .contactbox{
     text-align: center;
