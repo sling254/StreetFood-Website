@@ -31,3 +31,18 @@
       margin-right: 825px;
 
   }
+  .textbox2{
+    display: flex;
+    
+  }
+  .textbox3{
+      border:black 1px solid;
+      margin-top: 250px;
+      margin-bottom: 250px;
+      margin-right: 2000px;
+      margin-left: 2px;
+      text-align: center;
+      padding-right: 100px;
+      
+  
+  }
