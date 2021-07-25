@@ -156,7 +156,9 @@ body{
   flex-wrap: nowrap;
   align-items: center;
   justify-content:center;
+  text-align: center;
 }
+
 .eat-together-text>h1{
   text-align: center;
   margin-left: 12rem;
@@ -250,6 +252,7 @@ body{
  margin-left:40rem;
  margin-top:9.5rem;
  position: absolute;
+
 }
 .hotdeal-text>p{
   text-align: center;
