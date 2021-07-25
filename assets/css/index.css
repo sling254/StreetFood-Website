@@ -1,3 +1,4 @@
+/*Basic styling */
 *{
     padding: 0%;
     margin: 0%;
@@ -8,7 +9,7 @@ body{
   position: relative;
 }
 
-
+/*styling  the landing page*/
 .landingpage{
     background-color:#e5e5e5;
     min-height: 70vh;
@@ -130,9 +131,8 @@ body{
 }
 
 
-
+/*styling  the Eat Together*/
   .container-Eat {
-    border: 1px solid black;
     margin-left: 80px;
     margin-right: 35px;
     padding-right: 70px;
@@ -164,10 +164,10 @@ body{
   margin-left: 12rem;
 }
 
+/*styling  the Explore Menu*/
 
 
 .container-explore{
-    border: 1px solid black;
     margin-left: 80px;
     margin-right: 35px;
     padding-right: 70px;
@@ -186,16 +186,7 @@ body{
     text-align: center
   }
  
- /*
- .box {
-    padding: 50px;
-    margin: 45px;
-    height: 100px;
-    width: 200px;
-    border-radius: 0 0 40px 0;
-    background-color: white;
-}
-*/
+
 .box {
   padding: 14px;
   margin: 45px;
@@ -221,8 +212,8 @@ body{
   text-align:center;
   margin-left: 2rem;
 }
+/*styling  the Hot-deal Section*/
 .container-deals{
-    border: 1px solid black;
     margin-left: 80px;
     margin-right: 35px;
     padding-right: 70px;
@@ -247,7 +238,6 @@ body{
   text-align: center;
 }
 .hotdeal-text{
- border: 1px solid black;
  float: right;
  margin-left:40rem;
  margin-top:9.5rem;
@@ -258,8 +248,8 @@ body{
   text-align: center;
   padding-left: 0px;
 }
+/*styling  the Contact Section*/
 .contactbox{
-    border: 1px solid black;
     margin-left: 80px;
     margin-right: 35px;
     padding-right: 70px;
@@ -305,7 +295,6 @@ input[type=text] {
 
 }
 .container-footer{
-  border: 1px solid black;
   margin-top: 5%;
   margin-left: 80px;
   margin-right: 35px;
@@ -314,6 +303,7 @@ input[type=text] {
   background-color: #f1faec;
 
 }
+/*styling  the Footer Section*/
 .footer{
   width: 100%;
   display: flex;
