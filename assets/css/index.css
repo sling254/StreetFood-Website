@@ -84,7 +84,7 @@ body{
 }
 .navbar {
     overflow: hidden;
-    padding-top: 70px;
+    padding-top: 0px;
     padding-left: 40px;
     padding-right: 40px;
     position: absolute;
@@ -94,9 +94,10 @@ body{
   .navbar a {
     padding: 50px 45px;
     color: black;
-    font-size: 17px;
+    font-size: 13px;
     text-decoration: none;
   }
+
 
   
   .navbar-text{
