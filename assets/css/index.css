@@ -61,6 +61,25 @@ body{
     margin-right: 825px;
 
 }
+#navbar-button {
+  
+  background-color: #6CB840;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 4px 2px;
+  border-radius: 16px;
+  width:30%;
+  cursor: pointer;
+  margin-bottom: 12px;
+    
+
+
+}
 
 
 
@@ -220,14 +239,18 @@ input[type=text] {
   background-color: #6CB840;
   border: none;
   color: white;
-  padding: 20px;
+  padding: 10px 20px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 14px;
-  margin: 4px 4px;
-  border-radius: 20px;
+  margin: 4px 2px;
+  border-radius: 16px;
   width:10%;
+  cursor: pointer;
+  margin-bottom: 12px;
+    
+
 
 }
 .container-footer{
