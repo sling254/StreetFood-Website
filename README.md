@@ -27,3 +27,4 @@ https://sling254.github.io/StreetFood-Website/
 ## License 
 * see [LICENSE](https://github.com/sling254/StreetFood-Website/blob/main/LICENSE) file
 
+NOTE -- Use the browser full width 
