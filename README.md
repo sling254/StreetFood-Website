@@ -1,7 +1,6 @@
 # StreetFood-Website
 Is it just me or does this meal look more scrumptious because I'm on a diet? We have an answer for that, it is actually scrumptious.
-Street Food website is a site made to bring the menu close to you for all ready to eat food or drink that we offer before you get to the physical location so that when you get there your mind is already made on what you what to take.
-
+Street Food website is a site made to bring the menu close to you. For ready to eat food or drink that we offer, before you get to the physical location. When you get there your mind is already made on what you what to take.
 
 
 ### Check out the website
@@ -9,7 +8,7 @@ https://sling254.github.io/StreetFood-Website/
 
 # Project Setup Instructions
 * Get an install a browser
-* After successful installation this [link](https://sling254.github.io/StreetFood-Website/) with the browser 
+* After successful installation click this [link](https://sling254.github.io/StreetFood-Website/) and open with the browser
 
 # Permissions
 - Internet
@@ -27,5 +26,4 @@ https://sling254.github.io/StreetFood-Website/
 
 ## License 
 * see [LICENSE](https://github.com/sling254/StreetFood-Website/blob/main/LICENSE) file
-
 
