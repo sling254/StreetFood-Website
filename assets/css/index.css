@@ -44,9 +44,43 @@ body{
     border-style: dotted;
     top: 8.5rem;
     right: 12rem;
-    border-bottom: 0px;
- 
- 
+    border-bottom: 0px; 
+}
+#one{
+  position: absolute;
+  bottom:0;
+  z-index: 3;
+  top: 15rem;
+  right: 28rem;
+}
+#two{
+  position: absolute;
+  bottom:0;
+  z-index: 3;
+  top: 8rem;
+  right: 26rem;
+
+}
+#three{
+  position: absolute;
+  bottom:0;
+  z-index: 3;
+  top: 6rem;
+  right: 19rem;
+}
+#four{
+  position: absolute;
+  bottom:0;
+  z-index: 3;
+  top: 9rem;
+  right: 13rem;
+}
+#five{
+  position: absolute;
+  bottom:0;
+  z-index: 3;
+  top: 15rem;
+  right: 9rem;
 }
 .navbar {
     overflow: hidden;
