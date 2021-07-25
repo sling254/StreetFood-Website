@@ -1,5 +1,5 @@
 # StreetFood-Website
-Is it just me or does this meal look more scrumptious because I'm on a diet? We have an answer for that is actually scrumptious.
+Is it just me or does this meal look more scrumptious because I'm on a diet? We have an answer for that, it is actually scrumptious.
 Street Food website is a site made to bring the menu close to you for all ready to eat food or drink that we offer before you get to the physical location so that when you get there your mind is already made on what you what to take.
 
 
